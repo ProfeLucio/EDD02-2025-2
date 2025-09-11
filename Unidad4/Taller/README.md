@@ -2,9 +2,10 @@
 ## Objetivo General
 Desarrollar una aplicación de consola en C que resuelva problemas específicos de gestión académica utilizando la recursividad, demostrando dominio sobre la declaración de funciones, el manejo de punteros y estructuras, la compilación con GCC y la gestión de código fuente con Git y GitHub.
 ## Temas a Evaluar
-### Unidad 1: Fundamentos y Herramientas Iniciales
-### Unidad 2: Fundamentos del Lenguaje C
-### Unidad 4: Ordenamiento Básico
+- Unidad 1: Fundamentos y Herramientas Iniciales
+- Unidad 2: Fundamentos del Lenguaje C
+- Unidad 4: Ordenamiento Básico
+- Apendice A: Recursividad
 ## Descripción de la Aplicación a Desarrollar
 Se debe crear un programa en C (taller.c) que gestione una lista predefinida de estudiantes, cada uno con un código y una nota. El programa presentará un menú interactivo para realizar operaciones sobre estos datos utilizando funciones recursivas.
 
