@@ -11,7 +11,7 @@ Se debe crear un programa en C (taller.c) que gestione una lista predefinida de 
 
 ### Datos de los Estudiantes (predefinidos en el código):
 Se debe usar un arreglo de estructuras Estudiante. (typedef)
-Ejemplo:  {código: 2024101, nota: 4.5}, {código: 2024102, nota: 3.2}, ...
+Ejemplo:  {codigo: 2024101, nota: 4.5}, {codigo: 2024102, nota: 3.2}, ...
 ### Menú de la Aplicación:
 - Buscar la Nota Máxima del Curso (Recursivo): El programa recorrerá el arreglo de notas y encontrará la calificación más alta utilizando una función recursiva.
 - Calcular el Promedio del Curso (Recursivo): El programa calculará la nota promedio del curso. Para ello, implementará una función recursiva que sume todas las notas.
